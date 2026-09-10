@@ -6,5 +6,5 @@ export {
     ActionButton,
     NavigationButton,
     PinButton,
-} from "./Buttons";
-export type { ButtonProps } from "./Buttons";
+} from "./components/Buttons";
+export type { ButtonProps } from "./components/Buttons";

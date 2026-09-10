@@ -16,7 +16,6 @@
         "jsx": "react-jsx",
         "rootDir": ".",
         "outDir": "dist",
-
         // linting
         "noImplicitAny": true,
         "strict": true,
