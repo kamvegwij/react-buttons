@@ -1,0 +1,19 @@
+.brand-colors {
+    /* primary */
+    --color-nguni: #66371fff;
+    --color-lush: #16A34A;
+    --color-breathe: #2D743C;
+    --color-bone: #EDE7DC;
+
+    /* secondary */
+    --color-umnyama: #1B1B1B;
+    --color-hazy: #26567c;
+    --color-khala: #2C4F3C;
+
+    /* tertiary */
+    --color-ash: #2A2A2A;
+    --color-indigo_bloom: #3B4D61;
+    --color-chalk: #F4F4F4;
+    --color-oled: #987332;
+    --color-ambers: #E2B55A;
+}
