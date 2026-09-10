@@ -1,6 +1,6 @@
 {
   "name": "@kamvedev/react-buttons",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "This is my custom react buttons library that follow my personal branding and colors.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -45,7 +45,6 @@
     "typescript": "^5.7.3"
   },
   "peerDependencies": {
-    "@types/react": "^19.3.0",
-    "react": "^19.3.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
   }
 }
