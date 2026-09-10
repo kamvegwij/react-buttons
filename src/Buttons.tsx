@@ -8,7 +8,7 @@ export interface ButtonProps {
     onClick: React.MouseEventHandler<HTMLButtonElement>;
     title?: string;
     text?: string;
-    icon?: React.ReactNode;
+    icon?: React.ReactNode; // i recommend users use lucide-react for this
     isFill?: boolean;
     active?: boolean;
 };
