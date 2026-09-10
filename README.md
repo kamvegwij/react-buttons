@@ -8,9 +8,10 @@ My personal React button component library with custom branding and colors.
 npm install @kamvedev/react-buttons
 ```
 
-Requires `react` and `@types/react`as peer dependencies.
+- Requires `react` and `@types/react`as peer dependencies.
+- Requires dependency versions `react/react-dom ^19.3.0`
 
-## Usage
+## API Usage
 
 Import the stylesheet once (e.g. in your app's entry point), then use the components:
 

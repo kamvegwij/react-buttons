@@ -1,6 +1,6 @@
 {
   "name": "@kamvedev/react-buttons",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "This is my custom react buttons library that follow my personal branding and colors.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -40,7 +40,7 @@
   },
   "homepage": "https://github.com/kamvegwij/react-buttons#readme",
   "devDependencies": {
-    "@types/react": "^19.3.0",
+    "@types/react": "^16.8.0",
     "tsup": "^8.5.1",
     "typescript": "^5.7.3"
   },
